@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316015026119",
+    "firebase_url": "https://travelwithus-b81ef.firebaseio.com",
+    "project_id": "travelwithus-b81ef",
+    "storage_bucket": "travelwithus-b81ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316015026119:android:259444c92cf81f8be503e2",
+        "android_client_info": {
+          "package_name": "com.example.travelwithus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316015026119-3j55b8jhi79eddc4j1mtujhdupjg75qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelwithus",
+            "certificate_hash": "221f63277026d2730d030aaa6a798a1c4799a6cf"
+          }
+        },
+        {
+          "client_id": "316015026119-1pefbdm6v00eoksonlc11gnv36ov49mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0JKEinMzAEg-Y-SK64VNjAJEd_Kve8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316015026119-1pefbdm6v00eoksonlc11gnv36ov49mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
